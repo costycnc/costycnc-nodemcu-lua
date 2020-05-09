@@ -17,7 +17,9 @@
  
  flasher https://github.com/nodemcu/nodemcu-flasher
  
- bauds 9600 ... after push reset button on module will receive message
+ bauds 9600 ... after push reset button on module will receive message same as photo below
+ 
+ if is any init.lua file uloaded in microcontroller is executed after restart
  
 
 ![alt text](https://github.com/costycnc/costycnc-nodemcu-lua/blob/master/lua.jpg)
