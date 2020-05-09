@@ -9,6 +9,8 @@
   
  Download ESPlorer v2.0 http://domoticx.com/esp8266-esplorer-integrated-development-environment/
  
- http://esp8266.ru/esplorer-latest/?f=ESPlorer.zip costycnc wifi https://github.com/costycnc/costycnc-esp8255-grbl
+ http://esp8266.ru/esplorer-latest/?f=ESPlorer.zip 
+ 
+ costycnc wifi https://github.com/costycnc/costycnc-esp8255-grbl
  
  flasher https://github.com/nodemcu/nodemcu-flasher
