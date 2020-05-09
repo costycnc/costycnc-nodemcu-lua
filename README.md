@@ -17,6 +17,7 @@
  
  flasher https://github.com/nodemcu/nodemcu-flasher
  
+ bauds 9600 ... after push reset button on module will receive message
  
 
 ![alt text](https://github.com/costycnc/costycnc-nodemcu-lua/blob/master/lua.jpg)
