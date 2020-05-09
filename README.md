@@ -7,6 +7,8 @@
   
   https://javadl.oracle.com/webapps/download/AutoDL?BundleId=241534_1f5b5a70bf22433b84d0e960903adac8
   
+  if have windows 32bit download and extract nodemcu.zip ... if not working of have another operating sistem download below
+  
  Download ESPlorer v2.0 http://domoticx.com/esp8266-esplorer-integrated-development-environment/
  
  http://esp8266.ru/esplorer-latest/?f=ESPlorer.zip 
