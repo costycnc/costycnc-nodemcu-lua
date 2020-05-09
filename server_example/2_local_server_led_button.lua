@@ -6,8 +6,8 @@
 wifi.setmode(wifi.SOFTAP)
 -- setto parametri Access Point
 cfgSoftAP={}
-cfgSoftAP.ssid="MyNode"
-cfgSoftAP.pwd="PassSegreta"
+cfgSoftAP.ssid="Costy"
+--cfgSoftAP.pwd="PassSegreta"
 wifi.ap.config(cfgSoftAP)
 -- setto parametri ip
 cfgIP ={}
