@@ -1,5 +1,5 @@
 # costycnc-nodemcu-lua
-     I make test with windows7 32bit and java version 8 updated 241(build 1.8.0_241-b07)
+ I make test with windows7 32bit and java version 8 updated 241(build 1.8.0_241-b07)
        if not have java installed download from https://www.java.com/en/download/manual.jsp
        download java offline
       https://javadl.oracle.com/webapps/download/AutoDL?BundleId=241534_1f5b5a70bf22433b84d0e960903adac8
